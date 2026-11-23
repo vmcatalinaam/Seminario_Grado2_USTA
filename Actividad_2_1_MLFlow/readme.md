@@ -1,4 +1,4 @@
-# Actividad 2 – Pipeline Único y Control de Calidad Básico en MLOps
+# Actividad 2 – Pipeline y Control de Calidad Básico
 
 ## Estudiante
 
