@@ -53,7 +53,8 @@ Para este laboratorio se utiliza el dataset Iris incluido dentro de Scikit-Learn
  Características utilizadas: 
  - sepal_length - sepal_width 
  - petal_length 
- - petal_width Variable objetivo: - species (target) 
+ - petal_width
+ - Variable objetivo: - species (target) 
 
 
 ## Crear entorno virtual Abrir la terminal y ejecutar: 
