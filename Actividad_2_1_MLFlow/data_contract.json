@@ -1,0 +1,23 @@
+
+{
+  "schema": {
+    "sepal_length": "float",
+    "sepal_width": "float",
+    "petal_length": "float",
+    "petal_width": "float"
+  },
+
+  "Ejemplo_valido": {
+    "sepal_length": 5.1,
+    "sepal_width": 3.5,
+    "petal_length": 1.4,
+    "petal_width": 0.2
+  },
+
+  "Ejemplo_no_valido": {
+    "sepal_length": -8,
+    "sepal_width": null,
+    "petal_length": "texto",
+    "petal_width": 100
+  }
+}
